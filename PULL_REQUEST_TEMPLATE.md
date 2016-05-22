@@ -2,6 +2,5 @@ Hi,
 
 Please add me to the roster!
 
-Here is my [Fedora Wiki user page][userpage] FYI.
+Here is my https://fedoraproject.org/wiki/User:shiywang FYI.
 
-[userpage]: https://fedoraproject.org/wiki/User:My_FAS_NAME
